@@ -465,3 +465,12 @@ body.fdr-body {
     text-align: center;
   }
 }
+.fireside h1 {
+  font-size: 42px;
+  letter-spacing: 1px;
+}
+
+.platform-item h2 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
